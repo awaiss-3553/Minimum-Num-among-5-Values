@@ -1,1 +1,1 @@
-# Minimum-Num-among-5-Values
+Minimum Number among 5 Values.
